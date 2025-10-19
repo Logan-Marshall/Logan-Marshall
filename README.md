@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Logan-Marshall">
-    <img height="20" src="https://img.shields.io/github/followers/Logan-Marshall?label=follow&color=purple&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Logan-Marshall?label=follow&color=blue&logo=github&style=flat" />
   </a>
   <a href="https://www.linkedin.com/in/logan--marshall/">
     <img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Logan-Marshall">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=blue"/>
   </a>
   <a href="https://github.com/Logan-Marshall?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Logan-Marshall?color=800080&style=for-the-badge&labelColor=000000&logo=star"/>
