@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D371EF&width=600&center=true&lines=CEO+at+Enable+App+Inc;25+Years+in+Software+Development;Cloud+%7C+AI+%7C+DevOps+%7C+.NET+Expert;Tech+Leader+%26+Architect;Driving+Business+Growth+With+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3578BA&width=600&center=true&lines=CEO+at+Enable+App+Inc;25+Years+in+Software+Development;Cloud+%7C+AI+%7C+DevOps+%7C+.NET+Expert;Tech+Leader+%26+Architect;Driving+Business+Growth+With+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Logan-Marshall">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=blue"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=3578BA&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
   <a href="https://github.com/Logan-Marshall?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Logan-Marshall?color=800080&style=for-the-badge&labelColor=000000&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Logan-Marshall?color=3578BA&style=for-the-badge&labelColor=000000&logo=star"/>
   </a>
 </p>
 
