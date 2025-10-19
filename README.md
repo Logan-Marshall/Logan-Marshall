@@ -1,5 +1,5 @@
 
-**` CEO / Senior Software Architect / Tech Leader `** ![](https://komarev.com/ghpvc/?username=Logan-Marshall&color=blueviolet)
+**` CEO / Senior Software Architect / Tech Leader `** ![](https://komarev.com/ghpvc/?username=Logan-Marshall&color=blue)
 
 <p align="center">
   <a href="https://github.com/Logan-Marshall">
