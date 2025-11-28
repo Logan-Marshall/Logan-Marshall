@@ -1,10 +1,5 @@
 
-**` CEO / Senior Software Architect / Tech Leader `** ![](https://komarev.com/ghpvc/?username=Logan-Marshall&color=blue)
-
 <p align="center">
-  <a href="https://github.com/Logan-Marshall">
-    <img height="20" src="https://img.shields.io/github/followers/Logan-Marshall?label=follow&color=blue&logo=github&style=flat" />
-  </a>
   <a href="https://www.linkedin.com/in/logan--marshall/">
     <img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
@@ -14,14 +9,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3578BA&width=600&center=true&lines=CEO+at+Enable+App+Inc;25+Years+in+Software+Development;Cloud+%7C+AI+%7C+DevOps+%7C+.NET+Expert;Tech+Leader+%26+Architect;Driving+Business+Growth+With+Innovation" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Logan-Marshall">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=3578BA&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Logan-Marshall?tab=repositories&sort=stargazers">
-  
 </p>
 
 ## 🧑‍💼&nbsp;**`About Me`**
