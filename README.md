@@ -21,59 +21,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Logan-Marshall?color=3578BA&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
   <a href="https://github.com/Logan-Marshall?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Logan-Marshall?color=3578BA&style=for-the-badge&labelColor=000000&logo=star"/>
-  </a>
+  
 </p>
-
----
-
-## 🧰&nbsp;**`Tech Stack`**
-
-### **`Languages & Frameworks`**
-| .NET Core | C# | Blazor | Python | JavaScript | TypeScript | Angular | React | Vue | Java | SQL | NoSQL |
-|-----------|----|--------|--------|------------|------------|---------|-------|-----|------|-----|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/>|
-
-### **`Cloud, DevOps & Infra`**
-| Azure | AWS | GCP | Pulumi | Docker | Kubernetes | Azure DevOps | Terraform | Jenkins | GitHub Actions | ARM/Bicep | CI/CD |
-|-------|-----|-----|--------|--------|------------|--------------|-----------|---------|----------------|-----------|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/>|<img src="https://www.svgrepo.com/show/376365/pulumi.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width="55" height="55"/>|<img src="https://www.svgrepo.com/show/354202/terraform.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/>|<img src="https://www.svgrepo.com/show/354207/azure-bicep.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="55" height="55"/>|
-
-### **`Data, AI & Analytics`**
-| SQL Server | Oracle | CosmosDB | Firebase | Power BI | ML.NET | Azure Synapse | Databricks |
-|------------|--------|----------|----------|----------|--------|---------------|------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/databricks/databricks-original.svg" width="55" height="55"/>|
-
----
-
-## 📊&nbsp;**`Analytics`**
-<p align="center">
-  <a href="https://github.com/Logan-Marshall">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Logan-Marshall&show_icons=true&locale=en&theme=dracula&rank_icon=github" />
-  </a>
-  <a href="https://github.com/Logan-Marshall">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Marshall&layout=compact&show_icons=true&theme=dracula" />
-  </a>
-</p>
-
----
-
-## 👾&nbsp;**`Latest Projects`**
-<p align="center">
-  <a href="https://github.com/Logan-Marshall/TC-PACT-Blazor-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logan-Marshall&repo=TC-PACT-Blazor-Portal&theme=cobalt" alt="Project Card">
-  </a>
-  <a href="https://github.com/Logan-Marshall/BDO-Client-Debt-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logan-Marshall&repo=BDO-Client-Debt-Portal&theme=cobalt" alt="Project Card">
-  </a>
-  <a href="https://github.com/Logan-Marshall/Sentrex-Pharmacy-Cortex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Logan-Marshall&repo=Sentrex-Pharmacy-Cortex&theme=cobalt" alt="Project Card">
-  </a>
-</p>
-
-![snake svg](https://github.com/Logan-Marshall/Logan-Marshall/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## 🧑‍💼&nbsp;**`About Me`**
 
